@@ -7,6 +7,10 @@ There are a number of methods designed for visualizing likert data (e.g. item re
 
 This notebook uses to apply K-means algorithm for likert data (questionaries with answers betwen 1 to 5) and then visualize the emerging clusters in various ways. Note: at the moment this notebook only divides the data to two clusters.
 
+### The notebook
+
+See the [likert-clusters notebook](https://github.com/tjkemp/likert-clusters/blob/master/likert-clusters.ipynb).
+
 ### Using the notebook
 
 The input data should be a csv-style file, e.g: 
@@ -24,3 +28,21 @@ To use the notebook:
 2. Insert data file into suitable location (e.g. the directory of the notebook).
 3. Set filename, file_delimiter, questions and answers into the the notebook.
 4. Run each cell.
+
+### Examples of visualizations
+
+#### Histograms
+
+![Histogram](https://github.com/tjkemp/likert-clusters/blob/master/images/results.png)
+
+#### Parallel coordinates
+
+![Parallel coordinates](https://github.com/tjkemp/likert-clusters/blob/master/images/parallel_coordinates.png)
+
+#### Dimension reduction
+
+![Dimension reduction](https://github.com/tjkemp/likert-clusters/blob/master/images/dimension_reduction.png)
+
+#### Hierarchical clustering
+
+![Hierarchical clustering](https://github.com/tjkemp/likert-clusters/blob/master/images/hierarchical.png)
