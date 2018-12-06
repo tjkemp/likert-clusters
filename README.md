@@ -9,7 +9,7 @@ This notebook uses to apply K-means algorithm for likert data (questionaries wit
 
 ### The notebook
 
-See the [likert-clusters notebook on Finland's parliamentery election 2015](https://github.com/tjkemp/likert-clusters/blob/master/likert-clusters-yle.ipynb).
+See the [likert-clusters notebook on Finland's parliamentery election 2015](https://github.com/tjkemp/likert-clusters/blob/master/likert-clusters.ipynb).
 
 
 ### Example visualizations from Finland parliamentary election 2015 data
