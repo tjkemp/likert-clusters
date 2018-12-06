@@ -1,1 +1,7 @@
+
+# jupyter notebook related
 .ipynb_checkpoints
+
+# temporary files
+__pycache__
+temp
